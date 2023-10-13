@@ -190,6 +190,9 @@
     "instaclick/php-webdriver": {
         "version": "1.4.5"
     },
+    "iron-man/sylius-product-on-demand-plugin": {
+        "version": "1.0.9"
+    },
     "jms/metadata": {
         "version": "1.6.0"
     },
