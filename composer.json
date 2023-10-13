@@ -21,21 +21,12 @@
             "name": "Community contributions"
         }
     ],
-    "repositories": [
-        {
-            "type": "package",
-            "package": {
-                "name": "iron-man/sylius-product-on-demand-plugin",
-                "version": "1.0.9",
-                "type": "sylius-plugin",
-                "source": {
-                    "url": "git@github.com:/arhulCWA/tarteaufraise.git",
-                    "type": "git",
-                    "reference": "main"
-                }
-            }
+    "repositories": {
+        "IronManSyliusProductOnDemandPlugin": {
+            "type": "git",
+            "url": "https://github.com/arhulCWA/tarteaufraise.git"
         }
-    ],
+    },
     "require": {
         "php": "^8.0",
         "sylius/paypal-plugin": "^1.5",
